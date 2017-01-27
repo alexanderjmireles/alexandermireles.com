@@ -1,0 +1,11 @@
+.img-circle{
+width:600px;
+height:240px;
+background-repeat: no-repeat;
+    background-size: cover;
+
+    overflow:hidden;
+    -webkit-border-radius:50px;
+    -moz-border-radius:50px;
+    border-radius:50px;
+  }

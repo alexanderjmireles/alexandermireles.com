@@ -1,0 +1,28 @@
+h1 {
+  padding-top:85px;
+  padding-bottom:30px;
+  text-align: center;
+}
+
+a {
+  color:#f1a89b;
+  text-align: center;
+  /*text-decoration:underline;*/
+}
+
+a.btn.btn-primary.btn-lg {
+  color:#000000;
+  background-color:#ffffff;
+  border-color:transparent;
+}
+
+p {
+  text-align: center;
+}
+
+
+
+.bg-2 {
+  background:url(../../assets/img/jumbotron2.jpg) no-repeat center center fixed;
+  color:#fff;
+}
